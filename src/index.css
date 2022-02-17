@@ -7,11 +7,12 @@
 
 body {
   font-family: -apple-system, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif; 
-    background-image: linear-gradient(to left, #ff0000, #f30fa7);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
+  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif; 
+  background-image: linear-gradient(to left, #ff0000, #f30fa7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
 }

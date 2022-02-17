@@ -14,3 +14,15 @@
   font-weight: 500;
 }
 
+
+@media (max-width: 600px) {
+  .App {
+    width: 100%;
+    padding: 15px;
+  }
+  .App h1 {
+    font-size: 30px;
+  }
+}
+
+

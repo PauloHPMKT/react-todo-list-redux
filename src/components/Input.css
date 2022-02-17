@@ -27,3 +27,11 @@
     background-color: brown;
     color: #fff;
 }
+
+@media (max-width: 600px) {
+    
+    .container input, button {
+        width: 95%;
+    }
+}
+  
